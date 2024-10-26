@@ -24,9 +24,9 @@ Bodhi-Sec is an Automated Incident Response System (AIRS) designed to enhance cy
 Bodhi-Sec/
 ├── airs.py              # Main script for the Automated Incident Response System
 ├── config.ini           # Configuration file for system settings
-├── final.py             # Finalization script (if applicable)
+├── final.py             # Final version of script
 ├── dashboard.py         # Dashboard for visualizing system metrics
-├── ddos.py              # Module for DDoS detection and management
+├── ddos.py              # Module for DDoS simulation
 └── test.py              # Unit tests for validating functionality
 ```
 
