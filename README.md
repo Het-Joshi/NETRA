@@ -36,7 +36,7 @@ Bodhi-Sec/
 
    ```bash
    git clone https://github.com/Het-Joshi/NETRA.git
-   cd Bodhi-Sec
+   cd NETRA
    ```
 
 2. **Configure the System**
