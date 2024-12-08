@@ -1,6 +1,6 @@
-# Bodhi-Sec: Automated Incident Response System (AIRS)
+# NETRA: Automated Incident Response System (AIRS)
 
-Bodhi-Sec is an Automated Incident Response System (AIRS) designed to enhance cybersecurity through advanced threat detection, decentralized threat intelligence sharing, and self-healing infrastructure. Leveraging cutting-edge technologies such as ZeroMQ, PySpark, and post-quantum cryptography, Bodhi-Sec provides a robust framework to mitigate cyber threats in real time.
+NETRA is an Automated Incident Response System (AIRS) designed to enhance cybersecurity through advanced threat detection, decentralized threat intelligence sharing, and self-healing infrastructure. Leveraging cutting-edge technologies such as ZeroMQ, PySpark, and post-quantum cryptography, Bodhi-Sec provides a robust framework to mitigate cyber threats in real time.
 
 ## Features
 
@@ -35,7 +35,7 @@ Bodhi-Sec/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Het-Joshi/Bodhi-Sec.git
+   git clone https://github.com/Het-Joshi/NETRA.git
    cd Bodhi-Sec
    ```
 
